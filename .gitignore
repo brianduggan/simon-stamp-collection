@@ -1,0 +1,6 @@
+# Hide Private
+private-eyes.md
+
+# Hide Mac OS files
+.DS_Store
+.Trashes
