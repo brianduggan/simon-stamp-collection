@@ -1,5 +1,6 @@
 Stuff About Simon's Stamp Collection
+---
 
-About Simon
+#About Simon
 
-Info here...
+Info about Simon's collection here...
